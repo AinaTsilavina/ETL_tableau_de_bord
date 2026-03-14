@@ -1,0 +1,10 @@
+__pycache__/
+.env/
+.idea/
+exemple.db
+*.xlsx
+vnv/
+test.py
+Scripts.bat
+loggs.txt
+Automation.bat
